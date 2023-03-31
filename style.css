@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+}
+button{
+    background-color: tomato;
+    border: 0;
+    color: #fff;
+    padding: 10px 20px;
+    margin-right: 10px;
+    font-size: 1.4rem;
+    text-transform: capitalize;
+    border-radius: 5px;
+}
